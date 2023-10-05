@@ -1,5 +1,3 @@
-****README.MD****
-
 **Smart manufacturing with transfer learning under limited data: Towards Data-Driven Intelligences**
 
 This study throws light on developing a new prediction model using
